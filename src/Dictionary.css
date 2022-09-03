@@ -5,15 +5,23 @@
     width: 70%;
     display: block;
     margin: 0 auto;
-    margin-top: 90px;
+    margin-top: 40px;
+    background-color: rgb(255, 238, 241);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.question{
+  font-size: 18px;
 }
 
 .search-form{
-    height: 30px;
-    width: 350px;
+    height: 45px;
+    width: 100%;
     border: 1px solid rgb(237, 120, 183);
     border-radius: 3px;   
-    margin: 0 auto;
-    display: block;
+    padding-left: 10px;
     margin-bottom: 50px;
+    font-size: 16px;
 } 
+

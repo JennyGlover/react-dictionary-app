@@ -7,13 +7,13 @@ function App() {
     <div className="App">
       <div className='container'>
         <header className='App-header'>
-    
+        👩🏽‍🏫 Dictionary App
         </header>
         <main>
           <Dictionary />
         </main>
         <footer className='App-footer'>
-          Coded by Jenny Glover Saunders
+         👩🏾‍💻 Coded by Jenny Glover Saunders
         </footer>
       </div>
     </div>
