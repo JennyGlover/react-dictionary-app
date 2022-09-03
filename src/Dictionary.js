@@ -27,9 +27,10 @@ export default function Dictionary() {
 
   return (
     <div className="form">
-      <p className="question"> What would you like to look up?</p>
-      <form onSubmit={search}>
+      <form onSubmit={search} className="form-header">
+       <p className="question"> What would you like to look up?</p>
         <input type="search" onChange={handleKeywordChange} className='search-form' placeholder="Enter a word"/>
+        <p className="suggested-words">i.e., Comics, manga, anime</p>
       </form>
       <Results results={results} />
     </div>

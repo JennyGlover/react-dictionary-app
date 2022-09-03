@@ -1,13 +1,14 @@
-
+body{
+  background-color: rgb(255, 238, 241) ;
+}
 
 .form{
     display: block;
-    width: 70%;
+    width: 60%;
     display: block;
     margin: 0 auto;
     margin-top: 40px;
-    background-color: rgb(255, 238, 241);
-    padding: 50px;
+    padding: 30px;
     border-radius: 10px;
 }
 
@@ -20,8 +21,55 @@
     width: 100%;
     border: 1px solid rgb(237, 120, 183);
     border-radius: 3px;   
-    padding-left: 10px;
-    margin-bottom: 50px;
-    font-size: 16px;
+    padding-top: 2px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;  
+
 } 
 
+.results-word{
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 5px 10px #36363629;
+  
+}
+
+h2{
+  margin: 2px;
+}
+
+.question{
+  font-size: 24px;
+  margin-bottom: 10px;
+
+}
+
+form{
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 5px 10px #36363629;
+  margin-bottom: 20px;
+
+}
+
+
+div .Meaning{
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 5px 10px #36363629;
+  margin-top: 20px;
+  
+}
+
+.suggested-words{
+  font-size: 13px;
+  margin-top: 0px;
+  color: rgba(0, 0, 0, 0.588);
+}
+em{
+  color: rgba(0, 0, 0, 0.667);
+}
