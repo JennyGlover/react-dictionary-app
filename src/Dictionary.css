@@ -1,11 +1,19 @@
-.search-form{
-    margin-top: 70px;
-    text-align: center;   
+
+
+.form{
+    display: block;
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 90px;
 }
 
-.search-input{
+.search-form{
     height: 30px;
     width: 350px;
     border: 1px solid rgb(237, 120, 183);
-    border-radius: 3px;
-}
+    border-radius: 3px;   
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 50px;
+} 
