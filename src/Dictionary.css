@@ -1,0 +1,11 @@
+.search-form{
+    margin-top: 70px;
+    text-align: center;   
+}
+
+.search-input{
+    height: 30px;
+    width: 350px;
+    border: 1px solid rgb(237, 120, 183);
+    border-radius: 3px;
+}
