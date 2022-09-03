@@ -16,6 +16,6 @@ export default function Results(props){
         </div>
         );
     }else{
-        return "Not working";
+        return null;
     }
 }
