@@ -3,9 +3,10 @@ import React from "react";
 export default function Phonetics(props){
     return(
         <div className="Phonetic">
-            <a href={props.Phonetics.audio} target="_blank" rel="noreferrer">
+            <a href={props.phonetics.audio} target="_blank" rel="noreferrer">
                 Listen
             </a>
+            <br/>
              {props.phonetics.text}
         </div>
     )
