@@ -73,3 +73,10 @@ div .Meaning{
 em{
   color: rgba(0, 0, 0, 0.667);
 }
+
+.open-source{
+  text-decoration: none;
+  color:rgb(237,120,183);
+
+
+}

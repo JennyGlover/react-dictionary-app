@@ -13,7 +13,7 @@ function App() {
           <Dictionary />
         </main>
         <footer className='App-footer'>
-         👩🏾‍💻 Coded by Jenny Glover Saunders
+         👩🏾‍💻 <a className="open-source"  target="_blanck" href="https://github.com/JennyGlover/react-dictionary-app"> Open-Source</a> Project by Jenny Glover Saunders
         </footer>
       </div>
     </div>
