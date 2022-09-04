@@ -1,19 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+
+
 body{
   background-color: rgb(255, 238, 241) ;
+
 }
+
+
 
 .form{
     display: block;
     width: 60%;
     display: block;
     margin: 0 auto;
-    margin-top: 40px;
+    margin-top: 30px;
     padding: 30px;
     border-radius: 10px;
 }
 
 .question{
   font-size: 18px;
+  font-family: 'Source Sans Pro', sans-serif; 
+   font-weight: 300;
 }
 
 .search-form{
@@ -25,6 +33,9 @@ body{
     padding-left: 20px;
     margin-bottom: 10px;
     font-size: 18px;  
+    font-weight: 100px ;
+    font-family: 'Source Sans Pro', sans-serif; 
+   font-weight: 300;
 
 } 
 
@@ -33,6 +44,8 @@ body{
   padding: 20px;
   border-radius: 5px;
   box-shadow: 2px 5px 10px #36363629;
+  font-family: 'Source Sans Pro', sans-serif; 
+   font-weight: 300;
   
 }
 
@@ -43,7 +56,7 @@ h2{
 .question{
   font-size: 24px;
   margin-bottom: 10px;
-
+ 
 }
 
 form{
@@ -52,6 +65,8 @@ form{
   border-radius: 5px;
   box-shadow: 2px 5px 10px #36363629;
   margin-bottom: 20px;
+  font-family: 'Source Sans Pro', sans-serif; 
+   font-weight: 300;
 
 }
 
@@ -62,6 +77,8 @@ div .Meaning{
   border-radius: 5px;
   box-shadow: 2px 5px 10px #36363629;
   margin-top: 20px;
+  font-family: 'Source Sans Pro', sans-serif; 
+   font-weight: 300;
   
 }
 
@@ -80,3 +97,14 @@ em{
 
 
 }
+
+h3{
+  font-family: 'Source Sans Pro', sans-serif; 
+   font-weight: 500;
+}
+
+h2{
+  font-family: 'Source Sans Pro', sans-serif; 
+  font-weight: 500;
+}
+
